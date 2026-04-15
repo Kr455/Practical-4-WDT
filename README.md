@@ -46,7 +46,7 @@ MU_Website_Replica
 ## Live Demo (GitHub Pages)
 
 ```
-https://Kr455.github.io/college-webpage/
+https://kr455.github.io/Practical-4-WDT/
 ```
 
 ---
