@@ -36,7 +36,7 @@ It displays important departmental information such as Vision, Mission, Program 
 ```
 MU_Website_Replica
 │
-├── Pr4.html
+├── index.html
 ├── style.css
 └── images/
 ```
